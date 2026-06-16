@@ -116,7 +116,7 @@ def escolher_categoria():
 # Lista filtrada e ordenada
 
 def salvar_csv(produtos):
-    with open("product_promotion_finder/output/product_promotions.csv", "w", newline="", encoding="utf-8") as arquivo:
+    with open("output/product_promotions.csv", "w", newline="", encoding="utf-8") as arquivo:
         escritor = csv.writer(arquivo, delimiter=";")
         escritor.writerow(["Produto", "Preço", "Desconto", "Avaliação", "Estoque", "Marca", "Categoria", "Imagem"])
   
