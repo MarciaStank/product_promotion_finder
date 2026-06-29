@@ -177,7 +177,7 @@ The application displays the filtered products, promotion cards and historical p
 ----------------------------------------
 ```
 ```markdown
-![Terminal Output](screenshots\Screenshot_1_terminal.png)
+![Terminal Output](screenshots/Screenshot_1_terminal.png)
 ```
 ### 📲 Telegram Promotion Alert
 
