@@ -175,7 +175,7 @@ The application displays the filtered products, promotion cards and historical p
 🏷️ Category: beauty
 🔥 Discount: 12.16%
 ----------------------------------------
-
+```
 ![Terminal Output](screenshots/Screenshot_1_terminal.png)
 
 ### 📲 Telegram Promotion Alert
